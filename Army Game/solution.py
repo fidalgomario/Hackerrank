@@ -1,6 +1,5 @@
 import sys
 
-
 n,m = input().strip().split(' ')
 n,m = [int(n),int(m)]
 
