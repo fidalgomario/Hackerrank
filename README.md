@@ -1,23 +1,22 @@
 # Hackerrank
 This is a repository of my solutions to problems on [Hackerrank](https://www.hackerrank.com/).
+This is my [Hackerrank Profile](https://www.hackerrank.com/mariofidalgo) check it out.
 
 | Types of Problems        | Problems           
 | ------------- |:-------------:|
 | Warmup      | [Apple and Orange](/Apple and Orange/), 
-| Implementation      | centered      
-| Constructive Algorithms | are neat      
-| Strings | are neat      
-| Sorting | are neat      
-| Search | are neat      
-| Graph Theory | are neat      
-| Greedy | are neat      
-| Dynammic Programming | are neat      
-| Recursion | are neat      
-| Game Theory | are neat      
-| NP Complete | are neat  
-| Contests|[Army Game](/Army Game/)
-
-[My Hackerrank Profile](https://www.hackerrank.com/mariofidalgo)
+| Implementation      | [Bon Appetit](/Bon Appetit/), [Kangaroo](/Kangaroo/),[Sock Merchant](/Sock Merchant/),      
+| Constructive Algorithms |     
+| Strings | [Super Reduced String](/Super Reduced String/),      
+| Sorting |      
+| Search |       
+| Graph Theory |      
+| Greedy |    
+| Dynammic Programming |      
+| Recursion |       
+| Game Theory | [Game of Stones](/Game of Stones/),      
+| NP Complete |   
+| Contests|[Army Game](/Army Game/),[Best Divisor](/Best Divisor/),[Twins](/Twins/),
 
 ##Languages
 Python 3
