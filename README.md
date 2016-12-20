@@ -5,7 +5,7 @@ This is my [Hackerrank Profile](https://www.hackerrank.com/mariofidalgo) check i
 | Types of Problems        | Problems           
 | ------------- |:-------------|
 | Warmup                  | **Easy**: [Simple Array Sum](/Simple Array Sum/), [Compare the Triplets](/Compare the Triplets/), [A Very Big Sum](/A Very Big Sum/)<br> **Medium**:<br> **Hard**:
-| Implementation          | **Easy**: [Bon Appetit](/Bon Appetit/), [Kangaroo](/Kangaroo/), [Sock Merchant](/Sock Merchant/), [Apple and Orange](/Apple and Orange/), [Designer PDF Viewer](/Designer PDF Viewer/),[Divisible Sum Pairs](/Divisible Sum Pairs/)<br> **Medium**: [The Time in Words](/The Time in Words/)<br> **Hard**:
+| Implementation          | **Easy**: [Bon Appetit](/Bon Appetit/), [Kangaroo](/Kangaroo/), [Sock Merchant](/Sock Merchant/), [Apple and Orange](/Apple and Orange/), [Designer PDF Viewer](/Designer PDF Viewer/), [Divisible Sum Pairs](/Divisible Sum Pairs/)<br> **Medium**: [The Time in Words](/The Time in Words/)<br> **Hard**:
 | Constructive Algorithms | **Easy**:<br> **Medium**:<br> **Hard**:
 | Strings                 | **Easy**: [Super Reduced String](/Super Reduced String/)<br> **Medium**:<br> **Hard**:      
 | Sorting                 | **Easy**:<br> **Medium**:<br> **Hard**:    
