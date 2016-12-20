@@ -4,7 +4,7 @@ This is my [Hackerrank Profile](https://www.hackerrank.com/mariofidalgo) check i
 
 | Types of Problems        | Problems           
 | ------------- |:-------------:|
-| Warmup                  | [Apple and Orange](/Apple and Orange/), 
+| Warmup                  | [Simple Array Sum](/Simple Array Sum/), 
 | Implementation          | [Bon Appetit](/Bon Appetit/), [Kangaroo](/Kangaroo/),[Sock Merchant](/Sock Merchant/), [Apple and Orange](/Apple and Orange/),     
 | Constructive Algorithms |     
 | Strings                 | [Super Reduced String](/Super Reduced String/),      
