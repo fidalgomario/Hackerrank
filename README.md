@@ -1,6 +1,5 @@
 # Hackerrank
-This is a repository of my solutions to problems on [Hackerrank](https://www.hackerrank.com/).
-This is my [Hackerrank Profile](https://www.hackerrank.com/mariofidalgo) check it out.
+This is a repository of my solutions to problems on [Hackerrank](https://www.hackerrank.com/). Each of my solutions passed all of the test cases for the problem given. This is my [Hackerrank Profile](https://www.hackerrank.com/mariofidalgo) check it out!
 
 | Types of Problems        | Problems           
 | ------------- |:-------------|
