@@ -16,7 +16,7 @@ This is my [Hackerrank Profile](https://www.hackerrank.com/mariofidalgo) check i
 | Recursion               | **Easy**:<br> **Medium**:<br> **Hard**:      
 | Game Theory             |  **Easy**: [Game of Stones](/Game of Stones/)<br> **Medium**:<br> **Hard**:  
 | NP Complete             | **Easy**:<br> **Medium**:<br> **Hard**:     
-| Contests                | **Easy**: [Army Game](/Army Game/), [Best Divisor](/Best Divisor/),[Snake Case](/Snake Case/),[Climbing the Leaderboard](/Climbing the Leaderboard/)<br> **Medium**: [Twins](/Twins/),[Roads and Libraries](/Roads and Libraries/)<br> **Hard**:
+| Contests                | **Easy**: [Army Game](/Army Game/), [Best Divisor](/Best Divisor/), [Snake Case](/Snake Case/), [Climbing the Leaderboard](/Climbing the Leaderboard/)<br> **Medium**: [Twins](/Twins/), [Roads and Libraries](/Roads and Libraries/)<br> **Hard**:
 
 ##Languages
 Python 3
