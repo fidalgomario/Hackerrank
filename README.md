@@ -15,7 +15,7 @@ This is a repository of my solutions to problems on [Hackerrank](https://www.hac
 | Recursion               | **Easy**:<br> **Medium**:<br> **Hard**:      
 | Game Theory             |  **Easy**: [Game of Stones](/Game of Stones/)<br> **Medium**:<br> **Hard**:  
 | NP Complete             | **Easy**:<br> **Medium**:<br> **Hard**:     
-| Contests                | **Easy**: [Army Game](/Army Game/), [Best Divisor](/Best Divisor/), [Snake Case](/Snake Case/), [Climbing the Leaderboard](/Climbing the Leaderboard/)<br> **Medium**: [Twins](/Twins/), [Roads and Libraries](/Roads and Libraries/)<br> **Hard**:
+| Contests                | **Easy**: [Tailor Shop](/Tailor Shop/), [Drawing Book](/Drawing Book/), [Army Game](/Army Game/), [Best Divisor](/Best Divisor/), [Snake Case](/Snake Case/), [Climbing the Leaderboard](/Climbing the Leaderboard/)<br> **Medium**: [Zero-Move Nim](/Zero-Move Nim/), [Hackonacci Matrix Rotations](/Hackonacci Matrix Rotations/), [Twins](/Twins/), [Roads and Libraries](/Roads and Libraries/)<br> **Hard**:
 
 ##Languages
 Python 3
