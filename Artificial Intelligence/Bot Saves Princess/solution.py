@@ -4,7 +4,6 @@ def displayPathtoPrincess(n,grid):
     mario = [(i, grid.index('m')) for i, grid in enumerate(grid) if 'm' in grid]
     princess = [(i, grid.index('p')) for i, grid in enumerate(grid) if 'p' in grid]       
 
-
     if(mario != princess):
         if(mario[0][0] != princess[0][0]):
             dis = mario[0][0] - princess[0][0]
