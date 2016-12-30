@@ -1,6 +1,10 @@
 # Hackerrank
 This is a repository of my solutions to problems on [Hackerrank](https://www.hackerrank.com/). All of my solutions passed each test cases for the problem with the given constraints and requirements. This is my [Hackerrank Profile](https://www.hackerrank.com/mariofidalgo) check it out!
 
+##Languages
+Python 3
+
+
 ##Algorithms
 
 | Types of Problems        | Problems           
@@ -33,5 +37,3 @@ This is a repository of my solutions to problems on [Hackerrank](https://www.hac
 | Natural Language Processing                  | **Easy**:<br> **Medium**:<br> **Hard**:   
 | Probability & Statitics - Foundations    | **Easy**:<br> **Medium**:<br> **Hard**:     
 
-##Languages
-Python 3
