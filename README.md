@@ -1,10 +1,6 @@
 # Hackerrank
 This is a repository of my solutions to problems on [Hackerrank](https://www.hackerrank.com/). All of my solutions passed each test cases for the problem with the given constraints and requirements. This is my [Hackerrank Profile](https://www.hackerrank.com/mariofidalgo) check it out!
 
-##Languages
-Python 3
-
-
 ##Algorithms
 
 | Types of Problems        | Problems           
@@ -23,17 +19,6 @@ Python 3
 | NP Complete             | **Easy**:<br> **Medium**:<br> **Hard**:     
 | Contests                | **Easy**: [Tailor Shop](Algorithms/Contests/Tailor Shop/), [Drawing Book](Algorithms/Contests/Drawing Book/), [Army Game](Algorithms/Contests/Army Game/), [Best Divisor](Algorithms/Contests/Best Divisor/), [Snake Case](Algorithms/Contests/Snake Case/), [Climbing the Leaderboard](Algorithms/Contests/Climbing the Leaderboard/)<br> **Medium**: [Zero-Move Nim](Algorithms/Contests/Zero-Move Nim/), [Hackonacci Matrix Rotations](Algorithms/Contests/Hackonacci Matrix Rotations/), [Twins](Algorithms/Contests/Twins/), [Roads and Libraries](Algorithms/Contests/Roads and Libraries/)<br> **Hard**:
 
-##Artificial Intelligence
-
-| Types of Problems        | Problems           
-| ------------- |:-------------|
-| Bot Building                  | **Easy**: [Bot Saving Princess](Artificial Intelligence/Bot Saves Princess/) <br> **Medium**:<br> **Hard**:
-| A Search          | **Easy**: <br> **Medium**: <br> **Hard**:
-| Alpha Beta Pruning | **Easy**:<br> **Medium**:<br> **Hard**:
-| Combinatorial Search                 | **Easy**: <br> **Medium**:<br> **Hard**:      
-| Games                 | **Easy**:<br> **Medium**:<br> **Hard**:    
-| Statistics and Machine Learning                  | **Easy**:<br> **Medium**:<br> **Hard**:      
-| Digital Image Analysis            | **Easy**:<br> **Medium**:<br> **Hard**:     
-| Natural Language Processing                  | **Easy**:<br> **Medium**:<br> **Hard**:   
-| Probability & Statitics - Foundations    | **Easy**:<br> **Medium**:<br> **Hard**:     
+##Languages
+Python 3
 
