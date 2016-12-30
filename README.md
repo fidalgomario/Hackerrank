@@ -19,5 +19,19 @@ This is a repository of my solutions to problems on [Hackerrank](https://www.hac
 | NP Complete             | **Easy**:<br> **Medium**:<br> **Hard**:     
 | Contests                | **Easy**: [Tailor Shop](Algorithms/Contests/Tailor Shop/), [Drawing Book](Algorithms/Contests/Drawing Book/), [Army Game](Algorithms/Contests/Army Game/), [Best Divisor](Algorithms/Contests/Best Divisor/), [Snake Case](Algorithms/Contests/Snake Case/), [Climbing the Leaderboard](Algorithms/Contests/Climbing the Leaderboard/)<br> **Medium**: [Zero-Move Nim](Algorithms/Contests/Zero-Move Nim/), [Hackonacci Matrix Rotations](Algorithms/Contests/Hackonacci Matrix Rotations/), [Twins](Algorithms/Contests/Twins/), [Roads and Libraries](Algorithms/Contests/Roads and Libraries/)<br> **Hard**:
 
+##Artificial Intelligence
+
+| Types of Problems        | Problems           
+| ------------- |:-------------|
+| Bot Building                  | **Easy**: <br> **Medium**:<br> **Hard**:
+| A Search          | **Easy**: <br> **Medium**: <br> **Hard**:
+| Alpha Beta Pruning | **Easy**:<br> **Medium**:<br> **Hard**:
+| Combinatorial Search                 | **Easy**: <br> **Medium**:<br> **Hard**:      
+| Games                 | **Easy**:<br> **Medium**:<br> **Hard**:    
+| Statistics and Machine Learning                  | **Easy**:<br> **Medium**:<br> **Hard**:      
+| Digital Image Analysis            | **Easy**:<br> **Medium**:<br> **Hard**:     
+| Natural Language Processing                  | **Easy**:<br> **Medium**:<br> **Hard**:   
+| Probability & Statitics - Foundations    | **Easy**:<br> **Medium**:<br> **Hard**:     
+
 ##Languages
 Python 3
