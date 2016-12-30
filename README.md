@@ -13,7 +13,8 @@ This is a repository of my solutions to problems on [Hackerrank](https://www.hac
 | Search                  | **Easy**:<br> **Medium**:<br> **Hard**:      
 | Graph Theory            | **Easy**:<br> **Medium**:<br> **Hard**:     
 | Greedy                  | **Easy**:<br> **Medium**:<br> **Hard**:   
-| Dynammic Programming    | **Easy**:<br> **Medium**:<br> **Hard**:     
+| Dynammic Programming    | **Easy**:<br> **Medium**:<br> **Hard**:    
+| Bit Manipulation        | **Easy**: [Flipping Bits](Algorithms/Bit Manipulation/Flipping Bits/)<br> **Medium**:<br> **Hard**:    
 | Recursion               | **Easy**:<br> **Medium**:<br> **Hard**:      
 | Game Theory             |  **Easy**: [Game of Stones](Algorithms/Game Theory/Game of Stones/)<br> **Medium**:<br> **Hard**:  
 | NP Complete             | **Easy**:<br> **Medium**:<br> **Hard**:     
