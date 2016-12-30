@@ -27,7 +27,7 @@ Python 3
 
 | Types of Problems        | Problems           
 | ------------- |:-------------|
-| Bot Building                  | **Easy**: <br> **Medium**:<br> **Hard**:
+| Bot Building                  | **Easy**: [Bot Saving Princess](Artificial Intelligence/Bot Saves Princess/) <br> **Medium**:<br> **Hard**:
 | A Search          | **Easy**: <br> **Medium**: <br> **Hard**:
 | Alpha Beta Pruning | **Easy**:<br> **Medium**:<br> **Hard**:
 | Combinatorial Search                 | **Easy**: <br> **Medium**:<br> **Hard**:      
