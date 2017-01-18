@@ -10,7 +10,8 @@ def findXor(n):
             count += 2**(len(binary) - 1 - i)
     print(count)
 
-q = int(input().strip())
-for a in range(q):
-    x = int(input().strip())
-    findXor(x)
+if __name__ == '__main__':
+    q = int(input().strip())
+    for a in range(q):
+        x = int(input().strip())
+        findXor(x)
