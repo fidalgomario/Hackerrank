@@ -35,29 +35,30 @@ def friendships(edges, count):
         sizes.append(s)
     return sizes,count
 
-t = int(input().strip())
-for a in range(t):
-    n,m = input().strip().split(' ')
-    n,m = [int(n),int(m)]
-    
-    friends = []
-    for a1 in range(m):
-        x,y = input().strip().split(' ')
-        x,y = [int(x),int(y)]
-        friends.append([x,y])
-        
-        
-    count = 0    
-    friendShips, count = friendships(friends,count)  
-    friendShips = (sorted(friendShips, reverse=True))
-    
-    prev = 0
-    total_friends = 0
-    dup = m - count 
-    
-    for x in friendShips:
-        total_friends += countFriends(prev,x)
-        prev += (x-1) * (x)
-        
-    total_friends += dup * prev
-    print(total_friends)
+if __name__ == '__main__':
+    t = int(input().strip())
+    for a in range(t):
+        n,m = input().strip().split(' ')
+        n,m = [int(n),int(m)]
+
+        friends = []
+        for a1 in range(m):
+            x,y = input().strip().split(' ')
+            x,y = [int(x),int(y)]
+            friends.append([x,y])
+
+
+        count = 0    
+        friendShips, count = friendships(friends,count)  
+        friendShips = (sorted(friendShips, reverse=True))
+
+        prev = 0
+        total_friends = 0
+        dup = m - count 
+
+        for x in friendShips:
+            total_friends += countFriends(prev,x)
+            prev += (x-1) * (x)
+
+        total_friends += dup * prev
+        print(total_friends)
