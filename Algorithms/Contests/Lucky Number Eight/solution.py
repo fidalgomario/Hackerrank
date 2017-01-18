@@ -12,6 +12,7 @@ def luckyEight(num):
         
     return arr[0] - 1
 
-n = int(input().strip())
-number = map(int, input().strip())
-print(luckyEight(number) % ((10**9)+7))
+if __name__ == '__main__':
+    n = int(input().strip())
+    number = map(int, input().strip())
+    print(luckyEight(number) % ((10**9)+7))
