@@ -1,7 +1,7 @@
 # Hackerrank
 This is a repository of my solutions to problems on [Hackerrank](https://www.hackerrank.com/). All of my solutions passed each test cases for the problem with the given constraints and requirements. This is my [Hackerrank Profile](https://www.hackerrank.com/mariofidalgo) check it out!
 
-##Algorithms
+## Algorithms
 
 | Types of Problems        | Problems           
 | ------------- |:-------------|
@@ -20,6 +20,6 @@ This is a repository of my solutions to problems on [Hackerrank](https://www.hac
 | NP Complete             |    
 | Contests                | [Tailor Shop](Algorithms/Contests/Tailor%20Shop/), [Drawing Book](Algorithms/Contests/Drawing%20Book/), [Army Game](Algorithms/Contests/Army%20Game/), [Best Divisor](Algorithms/Contests/Best%20Divisor/), [Snake Case](Algorithms/Contests/Snake%20Case/), [Climbing the Leaderboard](Algorithms/Contests/Climbing%20the%20Leaderboard/), [Boat Trips](Algorithms/Contests/Boat%20Trips/)[Zero-Move Nim](Algorithms/Contests/Zero-Move%20Nim/), [Hackonacci Matrix Rotations](Algorithms/Contests/Hackonacci%20Matrix%20Rotations/), [Twins](Algorithms/Contests/Twins/), [Roads and Libraries](Algorithms/Contests/Roads%20and%20Libraries/), [The Great Xor](Algorithms/Contests/The%20Great%20Xor/), [Lucky Number Eight](Algorithms/Contests/Lucky%20Number%20Eight/), [The Value of Friendship](Algorithms/Contests/The%20Value%20of%20Friendship/)
 
-##Languages
+## Languages
 Python 3
 
