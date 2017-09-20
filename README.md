@@ -5,7 +5,7 @@ This is a repository of my solutions to problems on [Hackerrank](https://www.hac
 
 | Types of Problems        | Problems           
 | ------------- |:-------------|
-| Warmup                  | **Easy**: [Simple Array Sum](Algorithms/Warmup/Simple Array Sum/), [Compare the Triplets](Algorithms/Warmup/Compare the Triplets/), [A Very Big Sum](Algorithms/Warmup/A Very Big Sum/)<br> **Medium**:<br> **Hard**:
+| Warmup                  | **Easy**: [Simple Array Sum] (Algorithms/Warmup/Simple Array Sum/), [Compare the Triplets](Algorithms/Warmup/Compare the Triplets/), [A Very Big Sum](Algorithms/Warmup/A Very Big Sum/)<br> **Medium**:<br> **Hard**:
 | Implementation          | **Easy**: [Bon Appetit](Algorithms/Implementation/Bon Appetit/), [Kangaroo](Algorithms/Implementation/Kangaroo/), [Sock Merchant](Algorithms/Implementation/Sock Merchant/), [Apple and Orange](Algorithms/Implementation/Apple and Orange/), [Designer PDF Viewer](Algorithms/Implementation/Designer PDF Viewer/), [Divisible Sum Pairs](Algorithms/Implementation/Divisible Sum Pairs/)<br> **Medium**: [The Time in Words](Algorithms/Implementation/The Time in Words/)<br> **Hard**:
 | Constructive Algorithms | **Easy**:<br> **Medium**:<br> **Hard**:
 | Strings                 | **Easy**: [Super Reduced String](Algorithms/Strings/Super Reduced String/), [CamelCase](Algorithms/Strings/CamelCase/), [Caesar Cipher](Algorithms/Strings/Caesar Cipher/)<br> **Medium**:<br> **Hard**:      
