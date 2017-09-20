@@ -14,7 +14,7 @@ This is a repository of my solutions to problems on [Hackerrank](https://www.hac
 | Graph Theory            | 
 | Greedy                  |  
 | Dynammic Programming    | 
-| Bit Manipulation        |  [Flipping Bits](/Algorithms/Bit Manipulation/Flipping Bits/)
+| Bit Manipulation        |  [Flipping Bits](Algorithms/Bit Manipulation/Flipping Bits/)
 | Recursion               | 
 | Game Theory             |   [Game of Stones](Algorithms/Game Theory/Game of Stones/)
 | NP Complete             |    
