@@ -16,7 +16,7 @@ This is a repository of my solutions to problems on [Hackerrank](https://www.hac
 | Dynammic Programming    | 
 | Bit Manipulation        | [Flipping Bits](Algorithms/Bit%20Manipulation/Flipping%20Bits/)
 | Recursion               | 
-| Game Theory             | [Game of Stones](Algorithms/Game%20Theory/Game%20of%20Stones/)
+| Game Theory             | [Game of Stones](Algorithms/Game Theory/Game%20of%20Stones/)
 | NP Complete             |    
 | Contests                | [Tailor Shop](Algorithms/Contests/Tailor%20Shop/), [Drawing Book](Algorithms/Contests/Drawing%20Book/), [Army Game](Algorithms/Contests/Army%20Game/), [Best Divisor](Algorithms/Contests/Best%20Divisor/), [Snake Case](Algorithms/Contests/Snake%20Case/), [Climbing the Leaderboard](Algorithms/Contests/Climbing%20the%20Leaderboard/), [Boat Trips](Algorithms/Contests/Boat%20Trips/)[Zero-Move Nim](Algorithms/Contests/Zero-Move%20Nim/), [Hackonacci Matrix Rotations](Algorithms/Contests/Hackonacci%20Matrix%20Rotations/), [Twins](Algorithms/Contests/Twins/), [Roads and Libraries](Algorithms/Contests/Roads%20and%20Libraries/), [The Great Xor](Algorithms/Contests/The%20Great%20Xor/), [Lucky Number Eight](Algorithms/Contests/Lucky%20Number%20Eight/), [The Value of Friendship](Algorithms/Contests/The%20Value%20of%20Friendship/)
 
