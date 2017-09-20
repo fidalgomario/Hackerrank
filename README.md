@@ -5,7 +5,7 @@ This is a repository of my solutions to problems on [Hackerrank](https://www.hac
 
 | Types of Problems        | Problems           
 | ------------- |:-------------|
-| Warmup                  | [Simple Array Sum] (Algorithms/Warmup/Simple Array Sum/), [Compare the Triplets](Algorithms/Warmup/Compare the Triplets/), [A Very Big Sum](Algorithms/Warmup/A Very Big Sum/) 
+| Warmup                  | [Simple Array Sum](Algorithms/Warmup/Simple Array Sum/), [Compare the Triplets](Algorithms/Warmup/Compare the Triplets/), [A Very Big Sum](Algorithms/Warmup/A Very Big Sum/) 
 | Implementation          | [Bon Appetit](Algorithms/Implementation/Bon Appetit/), [Kangaroo](Algorithms/Implementation/Kangaroo/), [Sock Merchant](Algorithms/Implementation/Sock Merchant/), [Apple and Orange](Algorithms/Implementation/Apple and Orange/), [Designer PDF Viewer](Algorithms/Implementation/Designer PDF Viewer/), [Divisible Sum Pairs](Algorithms/Implementation/Divisible Sum Pairs/), [The Time in Words](Algorithms/Implementation/The Time in Words/)
 | Constructive Algorithms | 
 | Strings                 | [Super Reduced String](Algorithms/Strings/Super Reduced String/), [CamelCase](Algorithms/Strings/CamelCase/), [Caesar Cipher](Algorithms/Strings/Caesar Cipher/) 
@@ -14,7 +14,7 @@ This is a repository of my solutions to problems on [Hackerrank](https://www.hac
 | Graph Theory            | 
 | Greedy                  |  
 | Dynammic Programming    | 
-| Bit Manipulation        |  [Flipping Bits](Algorithms/Bit Manipulation/Flipping Bits/)
+| Bit Manipulation        |  [Flipping Bits](/Algorithms/Bit Manipulation/Flipping Bits/)
 | Recursion               | 
 | Game Theory             |   [Game of Stones](Algorithms/Game Theory/Game of Stones/)
 | NP Complete             |    
