@@ -1,1 +1,0 @@
-![alt text](https://hackerrank-challenge-pdfs.s3.amazonaws.com/9828-simple-array-sum-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1505943080&Signature=ahovRgJrGvseJFyD5QEvgBKnshg%3D&response-content-disposition=inline%3B%20filename%3Dsimple-array-sum-English.pdf&response-content-type=application%2Fpdf)
