@@ -6,7 +6,7 @@ This is a repository of my solutions to problems on [Hackerrank](https://www.hac
 | Types of Problems        | Problems           
 | ------------- |:-------------|
 | Warmup                  | [Simple Array Sum](Algorithms/Warmup/Simple%20Array%20Sum/), [Compare the Triplets](Algorithms/Warmup/Compare%20the%20Triplets/), [A Very Big Sum](Algorithms/Warmup/A%20Very%20Big%20Sum/) 
-| Implementation          | [Bon Appetit](Algorithms/Implementation/Bon%20Appetit/), [Kangaroo](Algorithms/Implementation/Kangaroo/), [Sock Merchant](Algorithms/Implementation/Sock%20Merchant/), [Apple and Orange](Algorithms/Implementation/Apple%20and%20Orange/), [Designer PDF Viewer](Algorithms/Implementation/Designer%20PDF%20Viewer/), [Divisible Sum Pairs](Algorithms/Implementation/Divisible%20Sum%20Pairs/), [The Time in Words](Algorithms/Implementation/The%20Time%20in%20Words/)
+| Implementation          | [Bon Appetit](Algorithms/Implementation/Bon%20Appetit/), [Kangaroo](Algorithms/Implementation/Kangaroo/), [Sock Merchant](Algorithms/Implementation/Sock%20Merchant/), [Apple and Orange](Algorithms/Implementation/Apple%20and%20Orange/), [Designer PDF Viewer](Algorithms/Implementation/Designer%20PDF%20Viewer/), [Divisible Sum Pairs](Algorithms/Implementation/Divisible%20Sum%20Pairs/), [The Time in Words](Algorithms/Implementation/The%20Time%20in%20Words/), [Climbing the leaderboard](Algorithms/Implementation/Climbing%20the%20leaderboard/)
 | Constructive Algorithms | 
 | Strings                 | [Super Reduced String](Algorithms/Strings/Super%20Reduced%20String/), [CamelCase](Algorithms/Strings/CamelCase/), [Caesar Cipher](Algorithms/Strings/Caesar%20Cipher/) 
 | Sorting                 | 
